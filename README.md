@@ -75,12 +75,15 @@ DESCRIPTION:
 Create (C):
 
 Allows users to add new entries to a dataset. This is typically done through a form where users input details that will be stored and displayed in the list of items.
+
 Read (R):
 
 Displays the existing data, often in the form of tables, lists, or cards. Users can view the stored records, and depending on the implementation, may be able to sort or filter the displayed data.
+
 Update (U):
 
 Enables users to edit an existing record. This typically involves selecting an item to update, pre-filling a form with its data, and then saving the changes back into the dataset.
+
 Delete (D):
 
 Allows users to remove an item from the dataset. This may be done through a delete button next to each item or a bulk delete option for selecting and deleting multiple records at once.
