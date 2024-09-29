@@ -83,3 +83,7 @@ Enables users to edit an existing record. This typically involves selecting an i
 Delete (D):
 
 Allows users to remove an item from the dataset. This may be done through a delete button next to each item or a bulk delete option for selecting and deleting multiple records at once.
+
+![EX 4](https://github.com/user-attachments/assets/bec410e0-3008-44fe-9ddc-fc0748ce4e87)
+![EX 4 1](https://github.com/user-attachments/assets/c97e9fe2-40e1-4f95-8804-5e788510cfc9)
+
