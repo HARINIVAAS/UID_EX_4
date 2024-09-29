@@ -71,6 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 DESCRIPTION:
+
 Create (C):
 
 Allows users to add new entries to a dataset. This is typically done through a form where users input details that will be stored and displayed in the list of items.
